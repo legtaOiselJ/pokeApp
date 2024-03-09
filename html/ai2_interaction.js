@@ -131,11 +131,11 @@ class PKMN{
               
               stats.attack = {
                   base :  parseInt(base_stats[ 6 ]),
-                  spe :  parseInt(base_stats[ 8 ])
+                  spe :  parseInt(base_stats[ 7 ])
               };
               
               stats.defense = {
-                  base :  parseInt(base_stats[ 7 ]),
+                  base :  parseInt(base_stats[ 8 ]),
                   spe :  parseInt(base_stats[ 9 ])
               };
       
@@ -1575,4 +1575,3 @@ export class JEU_POKEMON{
     }
     
   }
-
