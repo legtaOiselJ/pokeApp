@@ -1,0 +1,356 @@
+
+#vueDemarrage{
+  background-color:black; 
+  position: absolute;
+  left: 0;
+  top:0;
+  width: 100%;
+  max-width:720px;
+  height:100%;
+  max-height : 720px;
+  margin: auto;
+  display:flex;
+  align-items:center;
+}
+
+#startButton{
+  position: relative;
+  width:150px; 
+  height:70px;
+  background-color:white;
+  border:2px solid white;
+  text-align:center;
+  border-radius:10px;
+  margin:auto;
+}
+
+
+.mainPanel{
+
+    position: absolute;
+    left: 0;
+    top:0;
+    width: 100%;
+    max-width:720px;
+    height: auto;
+    height:60%;
+    max-height : 720px;
+    margin: auto;
+  
+}
+    
+.combatPanel {
+    position: absolute;
+    top:0;
+    left:0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border: 3px solid #F8F3F8;
+    border-radius: 8px 8px 0px 0px;
+    width: 100%;
+    max-width:720px;
+    height:100%;
+    border: 2px solid #000000;
+}
+    
+.roundContainer{
+    background-color: #ffffffc9;
+    width: 60%;
+    height: 90px;
+    border: 2px solid #000000;
+    border-radius: 8px;
+}
+
+.status {
+    position: absolute;
+    left:10px;
+    bottom:-25px;
+    height: 100px;
+    width: 95%;
+}
+
+.status h4{
+    text-align: left;
+    margin-bottom: 0.25em;
+}
+
+.wild {
+    position: relative;
+    height: 65%;
+    width: 100%;
+    top:0;
+    left:0;
+}
+
+.wild .roundContainer{
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    
+}
+    
+#wildPkmn{
+  
+    position: absolute;
+    right: 11%;
+    bottom: 6%;
+    width: 30%;
+    height: 40%;
+
+}
+    
+#wildPkmn .pokemon {
+    position: absolute;
+    bottom: 0px;
+    right: 25px;
+    height: 100%;
+    width:100%;
+    max-height:156px;
+    max-width: 156px;
+    display:flex;
+    align-items: end;
+
+    }
+    
+#wildFX{
+    position: absolute;
+    z-index: 2;
+    left: 0%;
+    top: 10%;
+    width:100%;
+    height:100%;
+    max-width:300px;
+    max-height:300px;
+}
+    
+    
+.player {
+position: relative;
+height: 35%;
+width: 100%;
+}
+
+
+.player .roundContainer{
+position: absolute;
+bottom: 10px;
+left: 4px;
+} 
+
+    
+#playerPkmn{
+position: absolute;
+left: 27%;
+bottom: 70%;
+width: 40%;
+height: 100%;
+max-width:200px;
+max-height:200px;
+min-width:96px;
+}
+
+    
+    
+#playerPkmn .pokemon {
+position: absolute;
+right: 15%;
+bottom: 5%;
+max-height:156px;
+max-width: 156px;
+height:100%;
+display:flex;
+align-items: end;
+
+}
+    
+#playerFX{
+  position: absolute;
+  z-index: 2;
+  left: 0%;
+  bottom: 0%;
+  height:100%;
+  min-width:96px;
+  min-height:96px;
+  max-width:400px;
+  max-height:400px;
+}
+    
+    
+.pokemonSprite{
+    height:65%;
+    max-height : 115px;
+    min-height : 48px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#wildImgContainer .pokemonSprite{
+    
+    transform: scale(1.0) translateY(-10px);
+}
+
+#playerImgContainer .pokemonSprite{
+    transform: scale(1.2) translateY(-10px);
+}
+    
+ 
+.MoveSel{
+position:absolute;
+left: 0;
+top:10%;
+width: 100%;
+height: 100%;
+
+}
+    
+#AttButton{
+    position: absolute;
+    left: 20%;
+
+}
+
+#EscButton{
+    position: absolute;
+    right: 20%;
+
+}
+
+.DivDesc{
+    position:absolute;
+    left: 0;
+    top:0;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+
+} h2{
+    margin-top: 5%;
+    margin-left: 2%;
+} h3{
+    margin-top: 2%;
+    margin-left: 2%;
+} h5 {
+    margin-top: 0%;
+    margin-left: 2%;
+}
+
+.AttPanel{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display:flex;
+    align-items: center;
+}
+
+.AttSel{
+  position:absolute;
+  left: 0;
+  width: 30%;
+  height:100px;
+  text-align: left;
+} 
+
+
+.AttList{
+  position:absolute;
+  right: 5px;
+  height:150px;
+  width:60%;
+
+}
+
+#AttDesc{
+  position:absolute;
+  height:100px;
+  width:100%;
+  margin-top:5%;
+}
+
+#AI2Exit{
+    position: absolute;
+    width: 80px;
+    bottom: 10px;
+    right:120px;
+}
+
+@media screen and (max-width: 360px) {
+  
+  #wildImgContainer .pokemonSprite{
+      transform: scale(0.8) translateX(25px);
+  }
+  
+  #wildFX{
+    left: 15%;
+  }
+  
+  #wildPkmn{
+    right:10%;
+  }
+  
+  #playerImgContainer .pokemonSprite{
+    transform: scale(0.8) translateX(-20px);
+  }
+  
+  #playerPkmn{
+   left:22%; 
+  }
+  
+  #playerPkmn .pokemon {
+    right: 0%;
+    bottom:5%;
+  }
+  
+  #playerFX{
+
+  left: -25%;
+  bottom: -10%;
+
+  }
+  
+  
+.roundContainer{
+    width: 80%;
+    border: 1px solid #000000;
+    height:75px;
+}
+  
+  .status{
+    bottom: -40px; 
+  }
+  
+  #AttButton{
+    position: absolute;
+    left: 2%;
+
+}
+
+  #EscButton{
+      position: absolute;
+      right: 2%;
+
+  }
+  
+
+.AttSel{
+  width:55%;
+} 
+  
+.AttList{
+  right: 2px;
+  bottom: 25px;
+  width:45%;
+  height:100%;
+
+}
+  
+  h2, h3, h4, h5, h6{
+    font-size:0.8em;
+  } 
+  
+  .button {
+    font-size:0.8em;
+  }
+
+}
