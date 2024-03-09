@@ -55,7 +55,7 @@ public class legtaUtils extends AndroidNonvisibleComponent {
     private YailList rightOrientationImagesList;
 
     private JSONObject jsonMedias;
-
+    private JSONObject jsonColors;
 
     public legtaUtils(ComponentContainer container){
 
@@ -71,7 +71,13 @@ public class legtaUtils extends AndroidNonvisibleComponent {
 
     }
 
-        // ============================= medias
+    // ============================= medias
+
+    @SimpleFunction (description = "Decodes the JSON text into Dictionary blocks.")
+    public void EnregistrerCouleurs( String texte ) {
+        this.jsonColors = new JSONObject(texte);
+    }
+    
 
     @SimpleFunction (description = "Decodes the JSON text into Dictionary blocks.")
     public void EnregistrerMedias( String texte ) {
@@ -81,11 +87,11 @@ public class legtaUtils extends AndroidNonvisibleComponent {
     @SimpleFunction( description = "obtenir les url des différents medias" )
     public void ObtenirMedias( int index ){
 
-        if( this.jsonMedias != null ){
+        try{
 
-            JSONObject pkmnUrls = this.jsonMedias.getJSONObject( Integer.toString(index) );
+            if( this.jsonMedias != null ){
 
-            try{
+                JSONObject pkmnUrls = this.jsonMedias.getJSONObject( Integer.toString(index) );
 
                 String icon_path = pkmnUrls.getString("icon");
                 String pokedex_path = pkmnUrls.getString("pokedex");
@@ -94,16 +100,60 @@ public class legtaUtils extends AndroidNonvisibleComponent {
                 String crie_path = pkmnUrls.getString("crie");
 
                 this.MediasObtenus( icon_path, pokedex_path, front_path, back_path, crie_path );
-
-            }catch( Exception e ) {
-                String exceptionString = e.toString();
-                this.XError(exceptionString);
             }
+
+        }catch( Exception e ) {
+
+            String exceptionString = e.toString();
+            this.XError(exceptionString);
 
         }
 
-        
     }
+
+
+    @SimpleFunction(description = "obtenir une liste RGB")
+    public YailList ObtenirCouleurRGB( String type ) {
+
+        String downCaseType = type.toLowerCase();
+
+        List<Integer> blackColorList = new ArrayList<>();
+
+        blackColorList.add( 0 );     
+        blackColorList.add( 0 );  
+        blackColorList.add( 0 );  
+
+        YailList outBlackList = YailList.makeList(blackColorList);
+
+        try{
+
+            if( this.jsonColors != null ){
+
+                JSONObject colorObj = this.jsonColors.getJSONObject( downCaseType );
+
+                List<Integer> colorsList = new ArrayList<>();
+
+                colorsList.add( Integer.parseInt( colorObj.getString( "red" ) ) );     
+                colorsList.add( Integer.parseInt( colorObj.getString( "green" ) ) );  
+                colorsList.add( Integer.parseInt( colorObj.getString( "blue" ) ) );  
+
+                YailList outList = YailList.makeList(colorsList);
+       
+                return outList;
+
+            }
+
+        }catch( Exception e ) {
+
+            String exceptionString = e.toString();
+            this.XError(exceptionString);
+
+        }
+
+        return outBlackList;
+
+    }
+
 
     // ============================= avatar
 
