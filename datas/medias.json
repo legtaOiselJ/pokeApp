@@ -1,0 +1,1066 @@
+{
+    "0": {
+      "icon": "",
+      "pokedex": "",
+      "front": "",
+      "back": "",
+      "crie": ""
+    },
+    "1": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/1.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/1.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/1.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/1.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/1.ogg"
+    },
+    "2": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/2.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/2.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/2.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/2.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/2.ogg"
+    },
+    "3": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/3.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/3.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/3.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/3.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/3.ogg"
+    },
+    "4": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/4.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/4.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/4.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/4.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/4.ogg"
+    },
+    "5": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/5.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/5.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/5.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/5.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/5.ogg"
+    },
+    "6": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/6.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/6.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/6.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/6.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/6.ogg"
+    },
+    "7": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/7.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/7.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/7.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/7.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/7.ogg"
+    },
+    "8": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/8.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/8.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/8.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/8.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/8.ogg"
+    },
+    "9": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/9.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/9.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/9.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/9.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/9.ogg"
+    },
+    "10": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/10.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/10.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/10.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/10.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/10.ogg"
+    },
+    "11": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/11.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/11.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/11.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/11.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/11.ogg"
+    },
+    "12": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/12.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/12.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/12.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/12.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/12.ogg"
+    },
+    "13": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/13.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/13.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/13.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/13.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/13.ogg"
+    },
+    "14": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/14.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/14.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/14.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/14.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/14.ogg"
+    },
+    "15": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/15.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/15.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/15.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/15.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/15.ogg"
+    },
+    "16": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/16.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/16.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/16.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/16.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/16.ogg"
+    },
+    "17": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/17.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/17.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/17.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/17.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/17.ogg"
+    },
+    "18": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/18.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/18.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/18.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/18.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/18.ogg"
+    },
+    "19": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/19.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/19.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/19.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/19.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/19.ogg"
+    },
+    "20": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/20.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/20.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/20.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/20.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/20.ogg"
+    },
+    "21": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/21.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/21.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/21.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/21.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/21.ogg"
+    },
+    "22": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/22.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/22.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/22.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/22.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/22.ogg"
+    },
+    "23": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/23.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/23.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/23.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/23.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/23.ogg"
+    },
+    "24": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/24.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/24.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/24.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/24.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/24.ogg"
+    },
+    "25": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/25.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/25.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/25.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/25.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/25.ogg"
+    },
+    "26": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/26.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/26.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/26.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/26.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/26.ogg"
+    },
+    "27": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/27.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/27.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/27.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/27.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/27.ogg"
+    },
+    "28": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/28.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/28.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/28.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/28.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/28.ogg"
+    },
+    "29": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/29.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/29.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/29.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/29.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/29.ogg"
+    },
+    "30": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/30.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/30.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/30.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/30.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/30.ogg"
+    },
+    "31": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/31.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/31.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/31.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/31.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/31.ogg"
+    },
+    "32": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/32.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/32.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/32.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/32.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/32.ogg"
+    },
+    "33": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/33.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/33.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/33.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/33.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/33.ogg"
+    },
+    "34": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/34.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/34.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/34.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/34.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/34.ogg"
+    },
+    "35": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/35.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/35.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/35.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/35.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/35.ogg"
+    },
+    "36": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/36.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/36.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/36.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/36.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/36.ogg"
+    },
+    "37": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/37.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/37.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/37.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/37.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/37.ogg"
+    },
+    "38": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/38.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/38.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/38.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/38.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/38.ogg"
+    },
+    "39": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/39.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/39.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/39.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/39.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/39.ogg"
+    },
+    "40": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/40.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/40.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/40.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/40.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/40.ogg"
+    },
+    "41": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/41.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/41.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/41.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/41.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/41.ogg"
+    },
+    "42": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/42.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/42.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/42.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/42.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/42.ogg"
+    },
+    "43": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/43.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/43.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/43.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/43.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/43.ogg"
+    },
+    "44": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/44.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/44.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/44.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/44.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/44.ogg"
+    },
+    "45": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/45.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/45.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/45.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/45.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/45.ogg"
+    },
+    "46": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/46.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/46.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/46.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/46.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/46.ogg"
+    },
+    "47": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/47.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/47.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/47.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/47.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/47.ogg"
+    },
+    "48": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/48.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/48.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/48.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/48.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/48.ogg"
+    },
+    "49": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/49.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/49.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/49.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/49.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/49.ogg"
+    },
+    "50": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/50.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/50.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/50.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/50.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/50.ogg"
+    },
+    "51": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/51.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/51.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/51.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/51.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/51.ogg"
+    },
+    "52": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/52.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/52.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/52.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/52.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/52.ogg"
+    },
+    "53": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/53.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/53.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/53.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/53.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/53.ogg"
+    },
+    "54": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/54.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/54.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/54.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/54.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/54.ogg"
+    },
+    "55": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/55.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/55.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/55.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/55.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/55.ogg"
+    },
+    "56": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/56.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/56.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/56.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/56.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/56.ogg"
+    },
+    "57": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/57.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/57.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/57.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/57.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/57.ogg"
+    },
+    "58": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/58.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/58.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/58.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/58.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/58.ogg"
+    },
+    "59": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/59.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/59.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/59.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/59.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/59.ogg"
+    },
+    "60": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/60.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/60.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/60.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/60.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/60.ogg"
+    },
+    "61": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/61.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/61.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/61.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/61.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/61.ogg"
+    },
+    "62": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/62.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/62.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/62.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/62.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/62.ogg"
+    },
+    "63": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/63.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/63.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/63.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/63.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/63.ogg"
+    },
+    "64": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/64.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/64.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/64.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/64.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/64.ogg"
+    },
+    "65": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/65.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/65.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/65.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/65.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/65.ogg"
+    },
+    "66": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/66.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/66.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/66.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/66.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/66.ogg"
+    },
+    "67": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/67.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/67.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/67.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/67.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/67.ogg"
+    },
+    "68": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/68.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/68.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/68.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/68.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/68.ogg"
+    },
+    "69": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/69.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/69.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/69.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/69.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/69.ogg"
+    },
+    "70": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/70.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/70.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/70.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/70.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/70.ogg"
+    },
+    "71": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/71.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/71.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/71.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/71.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/71.ogg"
+    },
+    "72": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/72.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/72.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/72.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/72.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/72.ogg"
+    },
+    "73": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/73.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/73.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/73.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/73.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/73.ogg"
+    },
+    "74": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/74.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/74.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/74.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/74.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/74.ogg"
+    },
+    "75": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/75.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/75.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/75.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/75.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/75.ogg"
+    },
+    "76": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/76.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/76.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/76.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/76.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/76.ogg"
+    },
+    "77": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/77.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/77.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/77.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/77.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/77.ogg"
+    },
+    "78": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/78.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/78.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/78.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/78.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/78.ogg"
+    },
+    "79": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/79.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/79.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/79.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/79.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/79.ogg"
+    },
+    "80": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/80.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/80.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/80.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/80.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/80.ogg"
+    },
+    "81": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/81.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/81.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/81.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/81.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/81.ogg"
+    },
+    "82": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/82.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/82.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/82.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/82.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/82.ogg"
+    },
+    "83": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/83.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/83.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/83.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/83.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/83.ogg"
+    },
+    "84": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/84.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/84.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/84.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/84.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/84.ogg"
+    },
+    "85": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/85.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/85.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/85.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/85.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/85.ogg"
+    },
+    "86": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/86.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/86.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/86.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/86.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/86.ogg"
+    },
+    "87": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/87.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/87.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/87.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/87.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/87.ogg"
+    },
+    "88": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/88.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/88.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/88.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/88.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/88.ogg"
+    },
+    "89": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/89.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/89.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/89.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/89.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/89.ogg"
+    },
+    "90": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/90.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/90.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/90.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/90.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/90.ogg"
+    },
+    "91": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/91.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/91.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/91.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/91.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/91.ogg"
+    },
+    "92": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/92.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/92.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/92.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/92.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/92.ogg"
+    },
+    "93": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/93.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/93.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/93.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/93.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/93.ogg"
+    },
+    "94": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/94.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/94.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/94.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/94.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/94.ogg"
+    },
+    "95": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/95.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/95.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/95.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/95.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/95.ogg"
+    },
+    "96": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/96.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/96.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/96.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/96.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/96.ogg"
+    },
+    "97": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/97.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/97.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/97.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/97.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/97.ogg"
+    },
+    "98": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/98.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/98.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/98.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/98.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/98.ogg"
+    },
+    "99": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/99.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/99.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/99.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/99.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/99.ogg"
+    },
+    "100": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/100.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/100.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/100.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/100.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/100.ogg"
+    },
+    "101": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/101.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/101.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/101.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/101.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/101.ogg"
+    },
+    "102": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/102.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/102.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/102.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/102.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/102.ogg"
+    },
+    "103": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/103.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/103.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/103.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/103.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/103.ogg"
+    },
+    "104": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/104.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/104.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/104.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/104.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/104.ogg"
+    },
+    "105": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/105.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/105.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/105.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/105.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/105.ogg"
+    },
+    "106": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/106.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/106.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/106.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/106.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/106.ogg"
+    },
+    "107": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/107.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/107.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/107.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/107.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/107.ogg"
+    },
+    "108": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/108.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/108.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/108.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/108.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/108.ogg"
+    },
+    "109": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/109.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/109.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/109.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/109.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/109.ogg"
+    },
+    "110": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/110.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/110.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/110.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/110.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/110.ogg"
+    },
+    "111": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/111.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/111.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/111.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/111.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/111.ogg"
+    },
+    "112": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/112.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/112.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/112.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/112.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/112.ogg"
+    },
+    "113": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/113.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/113.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/113.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/113.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/113.ogg"
+    },
+    "114": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/114.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/114.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/114.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/114.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/114.ogg"
+    },
+    "115": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/115.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/115.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/115.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/115.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/115.ogg"
+    },
+    "116": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/116.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/116.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/116.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/116.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/116.ogg"
+    },
+    "117": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/117.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/117.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/117.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/117.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/117.ogg"
+    },
+    "118": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/118.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/118.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/118.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/118.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/118.ogg"
+    },
+    "119": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/119.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/119.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/119.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/119.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/119.ogg"
+    },
+    "120": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/120.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/120.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/120.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/120.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/120.ogg"
+    },
+    "121": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/121.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/121.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/121.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/121.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/121.ogg"
+    },
+    "122": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/122.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/122.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/122.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/122.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/122.ogg"
+    },
+    "123": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/123.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/123.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/123.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/123.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/123.ogg"
+    },
+    "124": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/124.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/124.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/124.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/124.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/124.ogg"
+    },
+    "125": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/125.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/125.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/125.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/125.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/125.ogg"
+    },
+    "126": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/126.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/126.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/126.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/126.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/126.ogg"
+    },
+    "127": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/127.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/127.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/127.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/127.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/127.ogg"
+    },
+    "128": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/128.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/128.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/128.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/128.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/128.ogg"
+    },
+    "129": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/129.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/129.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/129.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/129.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/129.ogg"
+    },
+    "130": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/130.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/130.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/130.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/130.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/130.ogg"
+    },
+    "131": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/131.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/131.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/131.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/131.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/131.ogg"
+    },
+    "132": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/132.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/132.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/132.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/132.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/132.ogg"
+    },
+    "133": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/133.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/133.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/133.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/133.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/133.ogg"
+    },
+    "134": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/134.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/134.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/134.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/134.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/134.ogg"
+    },
+    "135": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/135.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/135.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/135.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/135.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/135.ogg"
+    },
+    "136": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/136.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/136.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/136.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/136.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/136.ogg"
+    },
+    "137": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/137.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/137.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/137.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/137.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/137.ogg"
+    },
+    "138": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/138.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/138.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/138.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/138.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/138.ogg"
+    },
+    "139": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/139.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/139.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/139.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/139.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/139.ogg"
+    },
+    "140": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/140.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/140.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/140.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/140.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/140.ogg"
+    },
+    "141": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/141.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/141.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/141.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/141.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/141.ogg"
+    },
+    "142": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/142.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/142.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/142.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/142.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/142.ogg"
+    },
+    "143": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/143.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/143.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/143.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/143.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/143.ogg"
+    },
+    "144": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/144.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/144.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/144.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/144.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/144.ogg"
+    },
+    "145": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/145.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/145.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/145.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/145.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/145.ogg"
+    },
+    "146": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/146.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/146.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/146.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/146.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/146.ogg"
+    },
+    "147": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/147.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/147.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/147.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/147.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/147.ogg"
+    },
+    "148": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/148.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/148.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/148.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/148.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/148.ogg"
+    },
+    "149": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/149.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/149.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/149.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/149.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/149.ogg"
+    },
+    "150": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/150.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/150.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/150.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/150.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/150.ogg"
+    },
+    "151": {
+      "icon": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/icon/151.png",
+      "pokedex": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/card/151.png",
+      "front": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/front/151.gif",
+      "back": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/back/151.gif",
+      "crie": "https://raw.githubusercontent.com/legtaOiselJ/pokeApp/main/assets/pokedex/crie/151.ogg"
+    }
+  }
