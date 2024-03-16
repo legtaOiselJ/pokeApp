@@ -907,7 +907,9 @@ class PKMN{
                     }
 
                 }else{
+                    
                   docElements.pokemon.container.classList.add(animation_classes.no_attack);
+
                 }
                 
                 docElements.moves.name.innerHTML = `${stats.name} lance ${selected_move.name}`;
@@ -919,9 +921,13 @@ class PKMN{
                 targetPkmn.run_hit(damagesEval).then( _ => {
                   
                   if( damagesEval > 0){
+
                     docElements.pokemon.container.classList.remove(animation_classes.attack);
+
                   }else{
+
                     docElements.pokemon.container.classList.remove(animation_classes.no_attack);
+
                   }
                   
                   resolve(true);
@@ -1124,33 +1130,37 @@ class playerPKMN extends PKMN{
             
             if( playerSpeed < wildSpeed ){
             
-              window.BATTLERS.Wild.run_attack().then( wildAtt => {
+              window.BATTLERS.Wild.run_attack().then( async wildAtt => {
 
-                  if( !this.isPokemonFainted ){
+                await this.wait_for_ms(500);
 
-                    this.run_attack( moveIndex ).then( async playAtt => {
+                if( !this.isPokemonFainted ){
 
-                      await this.wait_for_ms(500);
-                      window.dispatchEvent( window.appEvents.endOfTurn );
+                this.run_attack( moveIndex ).then( async playAtt => {
 
-                    });
-                  }
+                    await this.wait_for_ms(500);
+                    window.dispatchEvent( window.appEvents.endOfTurn );
+
+                });
+                }
 
               });
 
           }else{
               
-              this.run_attack( moveIndex ).then( wildAtt => {
+              this.run_attack( moveIndex ).then( async wildAtt => {
 
-                  if(!window.BATTLERS.Wild.isPokemonFainted ){
+                await this.wait_for_ms(500);
 
-                      window.BATTLERS.Wild.run_attack().then( async playAtt => {
+                if(!window.BATTLERS.Wild.isPokemonFainted ){
 
-                      await this.wait_for_ms(500);
-                      window.dispatchEvent( window.appEvents.endOfTurn );
+                    window.BATTLERS.Wild.run_attack().then( async playAtt => {
 
-                    });
-                  }
+                    await this.wait_for_ms(500);
+                    window.dispatchEvent( window.appEvents.endOfTurn );
+
+                });
+                }
 
               });
 
@@ -1214,6 +1224,11 @@ export class JEU_POKEMON{
       boss : boss_url
     };
 
+  }
+
+
+  url_hit(url){
+    window.FX = "https://cdn.glitch.global/7e8b88c9-55ef-4f25-b07d-e8c3bccc676f/bigHit.gif?v=1709155492849";
   }
 
   url_songs( url_wild, url_boss ){
@@ -1450,6 +1465,32 @@ on_victory(){
     
   }
   
+  Test(){
+
+    let debugRoom = "Route";
+    let debugPlayerStats = [14,143,"Ronflex","Normal","Normal",68,38,26,23,36,15,189];
+    let debugPlayerMoves = [
+        [0,"Normal","Barrage","Le lanceur bloque la route de l’ennemi pour empêcher sa fuite."],
+        [0,"Normal","Don Naturel","Avant d’attaquer, le lanceur rassemble ses forces grâce à sa Baie. Elle détermine le type et la puissance."],
+        [0,"Normal","Barrage","Le lanceur bloque la route de l’ennemi pour empêcher sa fuite."],
+        [20,"Normal","Picanon","Envoie une rafale de dards. Peut toucher de 2 à 5 fois."]
+    ];
+
+    let debugPlayerXP = 189;
+
+    let debugWildStats = [11,41,"Nosferapti","Poison","Vol",33,17,13,14,15,19,49];
+    let debugWildMoves = [
+        [30,"Poison","Purédpois","Le lanceur attaque à l’aide d’une éruption de gaz répugnants. Peut aussi empoisonner l’ennemi."],
+        [0,"Poison","Gaz Toxik","Un nuage de gaz toxique est projeté au visage de l’ennemi. Peut l’empoisonner."],
+        [0,"Vol","Atterrissage","Le lanceur atterrit et se repose. Restaure jusqu’à la moitié de ses PV max."],
+        [35,"Vol","Picpic","Frappe l’ennemi d’un bec pointu ou d’une corne pour infliger des dégâts."]
+    ];
+
+    this.start(debugRoom, debugPlayerStats, debugPlayerMoves, debugPlayerXP, debugWildStats,  debugWildMoves );
+  
+}
+
+
   AI2start(){
     
     let appInventorInput = window.AppInventor.getWebViewString();
@@ -1457,22 +1498,22 @@ on_victory(){
     let appInventorJSON = JSON.parse( appInventorInput );
     
     
-    let AI2combatMode = appInventorJSON.room;
+    let AI2room = appInventorJSON.room;
     let AI2PlayerStats = JSON.parse(appInventorJSON.player.stats);
     let AI2PlayerMoves = JSON.parse(appInventorJSON.player.moves);
     let AI2PlayerXP = appInventorJSON.player.xp;
     let AI2WildStats = JSON.parse(appInventorJSON.wild.stats);
     let AI2WildMoves = JSON.parse(appInventorJSON.wild.moves);
     
-    this.start(AI2combatMode, AI2PlayerStats, AI2PlayerMoves, AI2PlayerXP, AI2WildStats, AI2WildMoves );
+    this.start(AI2room, AI2PlayerStats, AI2PlayerMoves, AI2PlayerXP, AI2WildStats, AI2WildMoves );
     
   }
 
-  start( combatMode, PlayerStats, PlayerMoves, PlayerXP, WildStats, WildMoves ){
+  start( room, PlayerStats, PlayerMoves, PlayerXP, WildStats, WildMoves ){
     
     const mainViewElement = document.querySelector('.combatPanel');
   
-    if( combatMode == "Caverne" ){
+    if( room == "Caverne" ){
       
       window.bossMode = true;
       mainViewElement.style.backgroundImage = `url(${window.backgrounds.boss})`; 
