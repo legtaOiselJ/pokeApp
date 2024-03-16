@@ -1520,8 +1520,8 @@ start( mode, PlayerStats, PlayerMoves, PlayerXP, WildStats, WildMoves ){
     
     window.audioElements.music.src = window.SONGS.boss;
 
-    let wildContainer = document.getElementById("wildImgContainer");
-    wildContainer.style.transform = "scale(1.5)";
+    /*let wildContainer = document.getElementById("wildImgContainer");
+    wildContainer.style.transform = "scale(1.5)";*/
     
   }else{
     
