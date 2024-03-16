@@ -1465,10 +1465,10 @@ on_victory(){
     
   }
   
-  Test(){
+  Test( bossCombat = false ){
 
-    let debugRoom = "Route";
-    let debugPlayerStats = [14,143,"Ronflex","Normal","Normal",68,38,26,23,36,15,189];
+    let debugRoom = bossCombat ? "Caverne" : "Route";
+    let debugPlayerStats = [11,143,"Ronflex","Normal","Normal",68,38,26,23,36,15,189];
     let debugPlayerMoves = [
         [0,"Normal","Barrage","Le lanceur bloque la route de l’ennemi pour empêcher sa fuite."],
         [0,"Normal","Don Naturel","Avant d’attaquer, le lanceur rassemble ses forces grâce à sa Baie. Elle détermine le type et la puissance."],
@@ -1478,7 +1478,7 @@ on_victory(){
 
     let debugPlayerXP = 189;
 
-    let debugWildStats = [11,41,"Nosferapti","Poison","Vol",33,17,13,14,15,19,49];
+    let debugWildStats = [11,bossCombat ? 0 : 41,"Nosferapti","Poison","Vol",33,17,13,14,15,19,49];
     let debugWildMoves = [
         [30,"Poison","Purédpois","Le lanceur attaque à l’aide d’une éruption de gaz répugnants. Peut aussi empoisonner l’ennemi."],
         [0,"Poison","Gaz Toxik","Un nuage de gaz toxique est projeté au visage de l’ennemi. Peut l’empoisonner."],
@@ -1514,11 +1514,14 @@ on_victory(){
     const mainViewElement = document.querySelector('.combatPanel');
   
     if( room == "Caverne" ){
-      
+   
       window.bossMode = true;
       mainViewElement.style.backgroundImage = `url(${window.backgrounds.boss})`; 
       
       window.audioElements.music.src = window.SONGS.boss;
+
+      let wildContainer = document.getElementById("wildImgContainer");
+      wildContainer.style.transform = "scale(1.5)";
       
     }else{
       
