@@ -915,11 +915,13 @@ class PKMN{
               docElements.moves.name.innerHTML = `${stats.name} lance ${selected_move.name}`;
               docElements.moves.resistance.innerHTML = effTxt;
 
-              await this.wait_for_ms( 1500 ); 
+              await this.wait_for_ms( 1000 ); 
                   
 
-              targetPkmn.run_hit(damagesEval).then( _ => {
+              targetPkmn.run_hit(damagesEval).then( async _ => {
                 
+                await this.wait_for_ms( 500 ); 
+
                 if( damagesEval > 0){
 
                   docElements.pokemon.container.classList.remove(animation_classes.attack);
@@ -1054,7 +1056,7 @@ class playerPKMN extends PKMN{
       splitWord = splitWord.split(target_sym);
 
       for (let i = 0; i < splitWord.length; i++) {
-          if (splitWord[i].length > 12) splitWord[i] = splitWord[i].substring(0, 12);
+        if (splitWord[i].length > 6) splitWord[i] = splitWord[i].substring(0, 6) +".";
       }
 
       return splitWord.join(target_sym);
