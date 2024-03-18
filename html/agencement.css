@@ -17,7 +17,6 @@
   width:150px; 
   height:70px;
   background-color:white;
-  border:2px solid white;
   text-align:center;
   border-radius:10px;
   margin:auto;
@@ -273,7 +272,7 @@ height: 100%;
     right:120px;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 480px) {
   
   #wildImgContainer .pokemonSprite{
       transform: scale(0.8) translateX(25px);
@@ -292,7 +291,7 @@ height: 100%;
   }
   
   #playerPkmn{
-   left:22%; 
+   left:16%; 
   }
   
   #playerPkmn .pokemon {
