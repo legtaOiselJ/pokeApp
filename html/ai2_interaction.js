@@ -141,7 +141,7 @@ class PKMN{
   
           stats.speed = base_stats[ 10 ];
           
-          stats.experience = stats.level *  parseInt(base_stats[ 11 ]);
+
           
           let medias = window.mediasURL[ src_index ];
 
@@ -149,13 +149,15 @@ class PKMN{
 
           docElements.pokemon.crie.src = medias.crie;
         
+          stats.experience = stats.level *  parseInt(base_stats[ 11 ]);
           
           if(!isAWildPokemon ){
             
             if( startExperience > 0) stats.experience = startExperience;
+            
             this.get_pokemon_details();
             
-          } 
+          }
           
           resolve(true);
       
@@ -630,8 +632,10 @@ class PKMN{
         docElements
       } = this;
       
+
       let xpSum = stats.experience + gainXP;
-      
+      //let debugXP = `gainXP:${gainXP}, stats.experience: ${stats.experience}, xpSum:${xpSum}`;
+    
       let experienceRequired = 0;
       
       switch ( stats.growthRate ) {
@@ -661,10 +665,12 @@ class PKMN{
       
       }
     
+
+    
       let updateIndex = stats.index;
       let updateLevel = stats.level;
 
-      if( xpSum > experienceRequired ){
+      if( xpSum >= experienceRequired ){
           
           window.audioElements.level.play();
 
@@ -909,18 +915,19 @@ class PKMN{
               }else{
                   
                 docElements.pokemon.container.classList.add(animation_classes.no_attack);
-
+                
+                effTxt = "Cela n'a pas d'effets sur le pokémon adverse.";
+                
               }
               
               docElements.moves.name.innerHTML = `${stats.name} lance ${selected_move.name}`;
               docElements.moves.resistance.innerHTML = effTxt;
 
-              await this.wait_for_ms( 1000 ); 
+              await this.wait_for_ms( 1100 ); 
                   
 
-              targetPkmn.run_hit(damagesEval).then( async _ => {
-                
-                await this.wait_for_ms( 500 ); 
+              targetPkmn.run_hit(damagesEval).then( _ => {
+        
 
                 if( damagesEval > 0){
 
@@ -985,7 +992,7 @@ class PKMN{
 
               if(!this.isAWildPokemon && stats.health.level <= 20) window.audioElements.lowHealth.play();
 
-              await this.wait_for_ms( 2000 );
+              await this.wait_for_ms( 1500 );
             
                   if(damagesReceived > 0){
                     
@@ -1053,6 +1060,7 @@ class playerPKMN extends PKMN{
   split_on_character( word, target_sym){
     
       let splitWord = word.substring(0, 12);
+      
       splitWord = splitWord.split(target_sym);
 
       for (let i = 0; i < splitWord.length; i++) {
@@ -1074,8 +1082,11 @@ class playerPKMN extends PKMN{
           return this.split_on_character(moveName, " ");
         
       } else {
-
-          return moveName.substring(0, 6);
+          
+          let substr =  moveName;
+          if( moveName.length > 6 ) substr = moveName.substring(0, 6) +".";
+          return substr;
+        
       }
     
   }
@@ -1152,13 +1163,14 @@ class playerPKMN extends PKMN{
             
             this.run_attack( moveIndex ).then( async wildAtt => {
 
-              await this.wait_for_ms(500);
+              await this.wait_for_ms(250);
 
               if(!window.BATTLERS.Wild.isPokemonFainted ){
 
                   window.BATTLERS.Wild.run_attack().then( async playAtt => {
 
                   await this.wait_for_ms(500);
+                    
                   window.dispatchEvent( window.appEvents.endOfTurn );
 
               });
@@ -1422,7 +1434,8 @@ on_victory(){
     playerXP.innerHTML = `${window.BATTLERS.Player.stats.name} remporte ${gainXP} points d'expérience.`;
     
     window.BATTLERS.Player.wait_for_ms(2000).then( _ => {
-              window.BATTLERS.Player.toNextLevel(gainXP);
+      
+      window.BATTLERS.Player.toNextLevel(gainXP);
     
       if(window.AI2Message.level > window.BATTLERS.Player.stats.level ){
 
@@ -1469,13 +1482,27 @@ on_escape(){
 }
 
 Test( mode = "jour" ){
-
+  
+  let testButton = document.getElementById("startButton");
+  let buttonTxt = "newbie";
+  
+  if( mode != "jour" ){
+    if( mode == "nuit"){
+      buttonTxt = "dark newbie";
+    }else{         
+      buttonTxt = "great newbie"
+    }
+  }
+  
+  testButton.innerHTML = buttonTxt;
+  testButton.classList.add("vibrate-1");
+  
   let debugPlayerStats = [11,143,"Ronflex","Normal","Normal",68,38,26,23,36,15,189];
   let debugPlayerMoves = [
-      [0,"Normal","Barrage","Le lanceur bloque la route de l’ennemi pour empêcher sa fuite."],
-      [0,"Normal","Don Naturel","Avant d’attaquer, le lanceur rassemble ses forces grâce à sa Baie. Elle détermine le type et la puissance."],
-      [0,"Normal","Barrage","Le lanceur bloque la route de l’ennemi pour empêcher sa fuite."],
-      [20,"Normal","Picanon","Envoie une rafale de dards. Peut toucher de 2 à 5 fois."]
+      [0,"Normal","U R","Le lanceur bloque la route de l’ennemi pour empêcher sa fuite."],
+      [35,"Eau","awesome","Fonction de test 1"],
+      [35,"Feu","superb","Fonction de test 2"],
+      [35,"Plante","amazing","Fonction de test 3"]
   ];
 
   let debugPlayerXP = 189;
@@ -1500,10 +1527,11 @@ AI2start(){
   let appInventorJSON = JSON.parse( appInventorInput );
   
   let AI2Mode = appInventorJSON.mode;
-
+  
   let AI2PlayerStats = JSON.parse(appInventorJSON.player.stats);
   let AI2PlayerMoves = JSON.parse(appInventorJSON.player.moves);
-  let AI2PlayerXP = appInventorJSON.player.xp;
+  let AI2PlayerXP = parseInt(appInventorJSON.player.xp);
+
   let AI2WildStats = JSON.parse(appInventorJSON.wild.stats);
   let AI2WildMoves = JSON.parse(appInventorJSON.wild.moves);
   
