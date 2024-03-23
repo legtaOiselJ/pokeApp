@@ -405,8 +405,19 @@ public class legtaUtils extends AndroidNonvisibleComponent {
                 JSONObject wildStats = new JSONObject();
                 wildStats.put("stats", pkmn_sauvage_stats.toJSONString());
                 wildStats.put("moves", pkmn_sauvage_actions.toJSONString());
-        
-                jsonContainer.put("room", strGameplay[0] );
+
+                String g_mode = "jour";
+
+                if( strGameplay[0].equalsIgnoreCase( "Caverne" ) ){
+                    g_mode = "boss";
+                }else{
+                    String lightMode = strGameplay[1];
+                    if( strGameplay[1].equalsIgnoreCase( "nuit" ) ){
+                        g_mode = strGameplay[1];
+                    }
+                }
+
+                jsonContainer.put("mode", g_mode );
             
                 jsonContainer.put("player", playerStats );
                 jsonContainer.put("wild", wildStats );
