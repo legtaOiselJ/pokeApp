@@ -1485,7 +1485,7 @@ ClampValue(val, min, max){
   return Math.min(Math.max(val, min), max)
 }
 
-Test( mode = "jour", pkmn = 143 ){
+Test( mode = "jour", pkmn_player = 143, pkmn_wild = 40 ){
   
   let testButton = document.getElementById("startButton");
   let buttonTxt = "newbie";
@@ -1501,22 +1501,22 @@ Test( mode = "jour", pkmn = 143 ){
   testButton.innerHTML = buttonTxt;
   testButton.classList.add("vibrate-1");
   
-  let debugPlayerStats = [11, this.ClampValue(pkmn, 1,151),"bugme","Normal","Normal",68,38,26,23,36,15,189];
+  let debugPlayerStats = [11, this.ClampValue(pkmn_player, 1,151),"Tajiri","Normal","Normal",68,38,26,23,36,15,189];
   let debugPlayerMoves = [
-      [0,"Normal","U R","Le lanceur bloque la route de l’ennemi pour empêcher sa fuite."],
-      [35,"Eau","awesome","Fonction de test 1"],
-      [35,"Feu","superb","Fonction de test 2"],
-      [35,"Plante","amazing","Fonction de test 3"]
+      [10,"Normal","U R","Le lanceur bloque la route de l’ennemi pour empêcher sa fuite."],
+      [25,"Eau","Awesome","Fonction de test 1"],
+      [35,"Feu","Superb","Fonction de test 2"],
+      [30,"Plante","Amazing","Fonction de test 3"]
   ];
 
   let debugPlayerXP = 189;
 
-  let debugWildStats = [11,mode == "boss" ? 0 : 41,"Nosferapti","Poison","Vol",33,17,13,14,15,19,49];
+  let debugWildStats = [11,mode == "boss" ? 0 : this.ClampValue(pkmn_wild, 1,151),"Satoshi","Poison","Vol",33,17,13,14,15,19,49];
   let debugWildMoves = [
-      [30,"Poison","Purédpois","Le lanceur attaque à l’aide d’une éruption de gaz répugnants. Peut aussi empoisonner l’ennemi."],
-      [0,"Poison","Gaz Toxik","Un nuage de gaz toxique est projeté au visage de l’ennemi. Peut l’empoisonner."],
-      [0,"Vol","Atterrissage","Le lanceur atterrit et se repose. Restaure jusqu’à la moitié de ses PV max."],
-      [35,"Vol","Picpic","Frappe l’ennemi d’un bec pointu ou d’une corne pour infliger des dégâts."]
+      [10,"Normal","secondeBeam","Fonction de test 1"],
+      [15,"Vol","oiselStorm","Fonction de test 2"],
+      [20,"Normal","legtaSlash","Fonction de test 3"],
+      [25,"Psy","sntDoom","Fonction de test 4"]
   ];
 
   this.start(mode, debugPlayerStats, debugPlayerMoves, debugPlayerXP, debugWildStats,  debugWildMoves );
