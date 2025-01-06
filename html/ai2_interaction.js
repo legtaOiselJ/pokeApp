@@ -1481,7 +1481,11 @@ on_escape(){
   
 }
 
-Test( mode = "jour" ){
+ClampValue(val, min, max){
+  return Math.min(Math.max(val, min), max)
+}
+
+Test( mode = "jour", pkmn = 143 ){
   
   let testButton = document.getElementById("startButton");
   let buttonTxt = "newbie";
@@ -1497,7 +1501,7 @@ Test( mode = "jour" ){
   testButton.innerHTML = buttonTxt;
   testButton.classList.add("vibrate-1");
   
-  let debugPlayerStats = [11,143,"Ronflex","Normal","Normal",68,38,26,23,36,15,189];
+  let debugPlayerStats = [11, this.ClampValue(143, 1,151),"bugme","Normal","Normal",68,38,26,23,36,15,189];
   let debugPlayerMoves = [
       [0,"Normal","U R","Le lanceur bloque la route de l’ennemi pour empêcher sa fuite."],
       [35,"Eau","awesome","Fonction de test 1"],
