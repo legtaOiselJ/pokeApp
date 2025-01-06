@@ -1501,7 +1501,7 @@ Test( mode = "jour", pkmn = 143 ){
   testButton.innerHTML = buttonTxt;
   testButton.classList.add("vibrate-1");
   
-  let debugPlayerStats = [11, this.ClampValue(143, 1,151),"bugme","Normal","Normal",68,38,26,23,36,15,189];
+  let debugPlayerStats = [11, this.ClampValue(pkmn, 1,151),"bugme","Normal","Normal",68,38,26,23,36,15,189];
   let debugPlayerMoves = [
       [0,"Normal","U R","Le lanceur bloque la route de l’ennemi pour empêcher sa fuite."],
       [35,"Eau","awesome","Fonction de test 1"],
