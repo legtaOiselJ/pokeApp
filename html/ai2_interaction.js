@@ -1511,7 +1511,7 @@ Test( mode = "jour", pkmn_player = 143, pkmn_wild = 40 ){
 
   let debugPlayerXP = 189;
 
-  let debugWildStats = [11,mode == "boss" ? 0 : this.ClampValue(pkmn_wild, 1,151),"Satoshi","Poison","Vol",33,17,13,14,15,19,49];
+  let debugWildStats = [11,mode == "boss" ? 0 : this.ClampValue(pkmn_wild, 1,151),"Sugimori","Poison","Vol",33,17,13,14,15,19,49];
   let debugWildMoves = [
       [10,"Normal","secondeBeam","Fonction de test 1"],
       [15,"Vol","oiselStorm","Fonction de test 2"],
