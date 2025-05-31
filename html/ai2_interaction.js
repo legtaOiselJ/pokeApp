@@ -650,53 +650,7 @@ class PKMN{
         } = this;
 
 
-        /*let xpSum = stats.experience + gainXP;
-        //let debugXP = `gainXP:${gainXP}, stats.experience: ${stats.experience}, xpSum:${xpSum}`;
 
-        let experienceRequired = 0;
-
-        switch ( stats.growthRate ) {
-
-          case "fast":
-
-            experienceRequired = Math.floor( 4/5 * Math.pow( stats.level, 3 ) );
-            break;
-
-          case "medium-fast":
-
-            experienceRequired = Math.floor( Math.pow( stats.level, 3 ) );
-            break;
-
-          case "medium-slow":
-
-            experienceRequired = Math.floor( 6/5 * Math.pow( stats.level, 3 ) - 15 * Math.pow( stats.level, 2 ) + 100*stats.level - 140 );
-            break;
-
-          case "slow":
-            experienceRequired = Math.floor( 5/4 * Math.pow( stats.level, 3 ) );
-            break;
-
-          default:
-            experienceRequired = Math.floor( 5/4 * Math.pow( stats.level, 3 ) );
-            break;
-
-        }
-
-
-
-        let updateIndex = stats.index;
-        let updateLevel = stats.level;
-
-        if( xpSum >= experienceRequired ){
-
-            window.audioElements.level.play();
-
-            updateLevel = updateLevel + 1;
-
-            if( stats.evolution.level <=  updateLevel ) updateIndex = stats.evolution.index;
-
-        }
-  */
 
         // XP total requis pour atteindre le niveau actuel (14)
       const currentLevelXP = this.getTotalXPForLevel(stats.level, stats.growthRate);
@@ -710,16 +664,20 @@ class PKMN{
       // xpSum correspond à l'XP accumulée DANS le niveau actuel
       let xpSum = stats.experience + gainXP;
 
+      let updateIndex = stats.index;
+      let updateLevel = stats.level;
+
       // Est-ce qu'on monte de niveau ?
       if (xpSum >= xpNeededToLevelUp) {
 
+
         updateLevel = updateLevel + 1;
+
         if (stats.evolution.level <= updateLevel) updateIndex = stats.evolution.index;
 
         xpSum=xpNeededToLevelUp-xpSum;
 
       }
-
 
       window.AI2Message.index = updateIndex;
       window.AI2Message.level = updateLevel;
@@ -1075,6 +1033,7 @@ class PKMN{
 
                 docElements.mainContainer.style.visibility = "hidden";
                 window.appEvents.endOfBattle.detail.exit = this.isAWildPokemon ? "victoire" : "défaite";
+
                 window.dispatchEvent( window.appEvents.endOfBattle );
 
             });
@@ -1419,6 +1378,8 @@ class PKMN{
     window.addEventListener("endOfBattle", (endEvent) => {
 
         window.audioElements.music.pause();
+
+        this.divStart.style.display = "none";
 
         this.ai2Button.style.visibility = "hidden";
 
