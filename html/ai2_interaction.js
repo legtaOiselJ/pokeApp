@@ -153,7 +153,7 @@ class PKMN{
 
             if(!isAWildPokemon ){
 
-              if( startExperience > 0) stats.experience = startExperience;
+              stats.experience = startExperience >= 0 ? startExperience : 0;
 
               this.get_pokemon_details();
 
@@ -653,14 +653,12 @@ class PKMN{
 
 
         // XP total requis pour atteindre le niveau actuel (14)
-      const currentLevelXP = this.getTotalXPForLevel(stats.level, stats.growthRate);
+      //const currentLevelXP = this.getTotalXPForLevel(stats.level, stats.growthRate);
 
       // XP total requis pour atteindre le niveau suivant (15)
-      const nextLevelXP = this.getTotalXPForLevel(stats.level + 1, stats.growthRate);
+      const xpNeededToLevelUp = this.getTotalXPForLevel(stats.level + 1, stats.growthRate);
 
-      // XP à atteindre depuis le niveau actuel pour monter de niveau
-      const xpNeededToLevelUp = nextLevelXP - currentLevelXP;
-
+      
       // xpSum correspond à l'XP accumulée DANS le niveau actuel
       let xpSum = stats.experience + gainXP;
 
@@ -675,7 +673,7 @@ class PKMN{
 
         if (stats.evolution.level <= updateLevel) updateIndex = stats.evolution.index;
 
-        xpSum=xpNeededToLevelUp-xpSum;
+        xpSum=0;
 
       }
 
@@ -1510,12 +1508,12 @@ class PKMN{
     let debugPlayerStats = [11, this.ClampValue(pkmn_player, 1,151),"Tajiri","Normal","Normal",68,38,26,23,36,15,189];
     let debugPlayerMoves = [
         [10,"Normal","U R","Le lanceur bloque la route de l’ennemi pour empêcher sa fuite."],
-        [25,"Eau","Awesome","Fonction de test 1"],
-        [35,"Feu","Superb","Fonction de test 2"],
-        [30,"Plante","Amazing","Fonction de test 3"]
+        [50,"Eau","Awesome","Fonction de test 1"],
+        [50,"Feu","Superb","Fonction de test 2"],
+        [50,"Plante","Amazing","Fonction de test 3"]
     ];
 
-    let debugPlayerXP = 189;
+    let debugPlayerXP = 970;
 
     let debugWildStats = [11,mode == "boss" ? 0 : this.ClampValue(pkmn_wild, 1,151),"Sugimori","Poison","Vol",33,17,13,14,15,19,49];
     let debugWildMoves = [
