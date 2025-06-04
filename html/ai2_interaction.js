@@ -1494,8 +1494,8 @@ class PKMN{
     let testButton = document.getElementById("startButton");
     let buttonTxt = "newbie";
 
-    if( mode != "jour" ){
-      if( mode == "nuit"){
+    if( mode.toLowerCase() != "jour" ){
+      if( mode.toLowerCase() == "nuit"){
         buttonTxt = "dark newbie";
       }else{
         buttonTxt = "great newbie"
@@ -1515,7 +1515,7 @@ class PKMN{
 
     let debugPlayerXP = 970;
 
-    let debugWildStats = [11,mode == "boss" ? 0 : this.ClampValue(pkmn_wild, 1,151),"Sugimori","Poison","Vol",33,17,13,14,15,19,49];
+    let debugWildStats = [11,mode.toLowerCase() == "boss" ? 0 : this.ClampValue(pkmn_wild, 1,151),"Sugimori","Poison","Vol",33,17,13,14,15,19,49];
     let debugWildMoves = [
         [10,"Normal","secondeBeam","Fonction de test 1"],
         [15,"Vol","oiselStorm","Fonction de test 2"],
@@ -1551,7 +1551,7 @@ class PKMN{
 
     const mainViewElement = document.querySelector('.combatPanel');
 
-    if( mode == "boss" ){
+    if( mode.toLowerCase() == "boss" ){
 
       window.bossMode = true;
       mainViewElement.style.backgroundImage = `url(${window.backgrounds.boss})`;
@@ -1564,7 +1564,7 @@ class PKMN{
     }else{
 
       window.bossMode = false;
-      mainViewElement.style.backgroundImage = mode == "jour" ? `url(${window.backgrounds.day})` : `url(${window.backgrounds.night})`;
+      mainViewElement.style.backgroundImage = mode.toLowerCase() == "jour" ? `url(${window.backgrounds.day})` : `url(${window.backgrounds.night})`;
       window.audioElements.music.src = window.SONGS.wild;
 
     }
