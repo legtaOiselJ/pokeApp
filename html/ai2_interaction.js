@@ -1497,8 +1497,10 @@ class PKMN{
     if( mode.toLowerCase() != "jour" ){
       if( mode.toLowerCase() == "nuit"){
         buttonTxt = "dark newbie";
-      }else{
+      }else if(mode.toLowerCase() == "boss"){
         buttonTxt = "great newbie"
+      }else{
+        buttonTxt = "who r u"
       }
     }
 
